@@ -17,6 +17,11 @@ header {
 column-gap: 20px
 ;
 }
+.myPage{
+  display: flex;
+  align-items: flex-end;
+  list-style: armenian;
+}
 
 .navList {
   display: flex;
