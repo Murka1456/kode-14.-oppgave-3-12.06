@@ -209,11 +209,20 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: lightskyblue;
+
+  
 }
 
 .introText {
   width: 50%;
   text-align: center;
+
+  color:blue;
+}
+.introcardText2{
+  width: 25%;
+  color: blue;
 }
 
 .introImg {
