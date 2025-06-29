@@ -17,6 +17,9 @@ header {
 column-gap: 20px;
 height: 100px;
 }
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
 .myPage{
   display: flex;
   align-items: flex-end;
