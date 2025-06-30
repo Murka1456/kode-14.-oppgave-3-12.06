@@ -226,6 +226,9 @@ img {
   color:blue;
   list-style: none;
 }
+.introImg :hover{
+  width: 350px;
+}
 .introcardText2{
   width: 25%;
   color: blue;
